@@ -1,7 +1,7 @@
 #i99c
+Hello, I'm Ipek
 
-
-
+This is my stats.
 
 
 #MY STATS (They are pathetic):
