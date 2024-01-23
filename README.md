@@ -1,5 +1,5 @@
 #i99c
-Hello, I'm Ipek
+Hello, I'm Ipek.
 
 This is my stats.
 
